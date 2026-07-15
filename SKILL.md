@@ -1,10 +1,10 @@
 ---
-name: chinese-brainstorming
+name: brainstorming
 description: 该技能为中文创意、方案设计、问题探索与决策收敛提供结构化头脑风暴，按目标、约束、风险和信息完整度选择方法与深度，并产出可追踪的候选、判断依据和行动计划。
 agent_created: true
 ---
 
-# 中文头脑风暴
+# 头脑风暴
 
 ## 目标
 
